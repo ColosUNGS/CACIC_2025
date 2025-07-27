@@ -1,5 +1,5 @@
 # CACIC_2025
-# Analisis de rendimiento del clúster CRONOS
+## Analisis de rendimiento del clúster CRONOS
 
 Archivos de configuración.
 
