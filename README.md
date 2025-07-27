@@ -1,5 +1,5 @@
 # CACIC_2025
-### Analisis de rendimiento del clúster CRONOS
+### Análisis de rendimiento y eficiencia energética en el clúster Raspberry Pi Cronos
 
 Archivos de configuración.   
 Scripts.  
