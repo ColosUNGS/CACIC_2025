@@ -1,2 +1,8 @@
 # CACIC_2025
-Pruebas que ser realizaron para medir el rendimiento del clúster CRONOS
+Analisis de rendimiento del clúster CRONOS
+(---)
+Archivos de configuración
+Scripts.
+Código fuente, utilizado, para el calculo de numero PI.
+Resultados obtenidos.
+
