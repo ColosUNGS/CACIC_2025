@@ -1,0 +1,35 @@
+# Listado de ejecuciones
+
+Enlaces directos a la salida estándar (`mpi-out.*`) y error (`mpi-err.*`) de cada corrida lanzada en el clúster:
+
+- Ejecución 156: [mpi-out.156](./mpi-out.156) | [mpi-err.156](./mpi-err.156)
+- Ejecución 157: [mpi-out.157](./mpi-out.157) | [mpi-err.157](./mpi-err.157)
+- Ejecución 158: [mpi-out.158](./mpi-out.158) | [mpi-err.158](./mpi-err.158)
+- Ejecución 159: [mpi-out.159](./mpi-out.159) | [mpi-err.159](./mpi-err.159)
+- Ejecución 160: [mpi-out.160](./mpi-out.160) | [mpi-err.160](./mpi-err.160)
+- Ejecución 161: [mpi-out.161](./mpi-out.161) | [mpi-err.161](./mpi-err.161)
+- Ejecución 162: [mpi-out.162](./mpi-out.162) | [mpi-err.162](./mpi-err.162)
+- Ejecución 163: [mpi-out.163](./mpi-out.163) | [mpi-err.163](./mpi-err.163)
+- Ejecución 164: [mpi-out.164](./mpi-out.164) | [mpi-err.164](./mpi-err.164)
+- Ejecución 165: [mpi-out.165](./mpi-out.165) | [mpi-err.165](./mpi-err.165)
+- Ejecución 166: [mpi-out.166](./mpi-out.166) | [mpi-err.166](./mpi-err.166)
+- Ejecución 167: [mpi-out.167](./mpi-out.167) | [mpi-err.167](./mpi-err.167)
+- Ejecución 168: [mpi-out.168](./mpi-out.168) | [mpi-err.168](./mpi-err.168)
+- Ejecución 169: [mpi-out.169](./mpi-out.169) | [mpi-err.169](./mpi-err.169)
+- Ejecución 170: [mpi-out.170](./mpi-out.170) | [mpi-err.170](./mpi-err.170)
+- Ejecución 171: [mpi-out.171](./mpi-out.171) | [mpi-err.171](./mpi-err.171)
+- Ejecución 172: [mpi-out.172](./mpi-out.172) | [mpi-err.172](./mpi-err.172)
+- Ejecución 173: [mpi-out.173](./mpi-out.173) | [mpi-err.173](./mpi-err.173)
+- Ejecución 174: [mpi-out.174](./mpi-out.174) | [mpi-err.174](./mpi-err.174)
+- Ejecución 175: [mpi-out.175](./mpi-out.175) | [mpi-err.175](./mpi-err.175)
+- Ejecución 176: [mpi-out.176](./mpi-out.176) | [mpi-err.176](./mpi-err.176)
+- Ejecución 177: [mpi-out.177](./mpi-out.177) | [mpi-err.177](./mpi-err.177)
+- Ejecución 178: [mpi-out.178](./mpi-out.178) | [mpi-err.178](./mpi-err.178)
+- Ejecución 179: [mpi-out.179](./mpi-out.179) | [mpi-err.179](./mpi-err.179)
+- Ejecución 180: [mpi-out.180](./mpi-out.180) | [mpi-err.180](./mpi-err.180)
+- Ejecución 181: [mpi-out.181](./mpi-out.181) | [mpi-err.181](./mpi-err.181)
+- Ejecución 182: [mpi-out.182](./mpi-out.182) | [mpi-err.182](./mpi-err.182)
+- Ejecución 183: [mpi-out.183](./mpi-out.183) | [mpi-err.183](./mpi-err.183)
+- Ejecución 184: [mpi-out.184](./mpi-out.184) | [mpi-err.184](./mpi-err.184)
+
+Cada archivo contiene la salida completa (stdout/stderr) generada por `srun`. Utilice estos registros para análisis de performance o depuración.

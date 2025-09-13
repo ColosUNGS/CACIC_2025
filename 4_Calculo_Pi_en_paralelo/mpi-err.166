@@ -1,0 +1,23 @@
+--------------------------------------------------------------------------
+Open MPI tried to fork a new process via the "execve" system call but
+failed.  Open MPI checks many things before attempting to launch a
+child process, but nothing is perfect. This error may be indicative
+of another problem on the target host, or even something as silly as
+having specified a directory for your application. Your job will now
+abort.
+
+  Local host:        nodo0
+  Working dir:       /clusterfs/investigadores/bench/hpl-2.3/bin/CRONOS/PruebaPiMPI
+  Application name:  ./pi-hib
+  Error:             Text file busy
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+mpirun was unable to start the specified application as it encountered an
+error:
+
+Error code: -125
+Error name: The specified application failed to start
+Node: nodo0
+
+when attempting to start process rank 0.
+--------------------------------------------------------------------------
