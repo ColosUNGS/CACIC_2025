@@ -1,0 +1,2 @@
+mpirun: Forwarding signal 18 to job
+slurmstepd-nodo0: error: *** JOB 2660 ON nodo0 CANCELLED AT 2025-09-17T12:36:45 ***

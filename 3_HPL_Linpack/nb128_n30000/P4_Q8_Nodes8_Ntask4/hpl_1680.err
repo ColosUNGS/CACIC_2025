@@ -1,0 +1,6 @@
+slurmstepd-nodo0: error: *** JOB 1680 ON nodo0 CANCELLED AT 2025-09-13T20:18:32 DUE TO NODE FAILURE, SEE SLURMCTLD LOG FOR DETAILS ***
+mpirun: Forwarding signal 18 to job
+[nodo0:262709] oob:tcp: send_msg: write failed: Broken pipe (32) [sd = 23]
+[nodo0:262709] [[50363,0],0]-[[50363,0],5] mca_oob_tcp_peer_send_handler: unable to send message ON SOCKET 23
+[nodo0:262709] oob:tcp: send_msg: write failed: Broken pipe (32) [sd = 24]
+[nodo0:262709] [[50363,0],0]-[[50363,0],3] mca_oob_tcp_peer_send_handler: unable to send message ON SOCKET 24
